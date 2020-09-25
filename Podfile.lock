@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (22.1.0)
+  - GSImageViewerController (1.6.2)
+  - HexColors (6.0.0)
+  - MaterialActivityIndicator (0.0.6)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Nuke (9.1.1)
+  - R.swift (5.2.2):
+    - R.swift.Library (~> 5.2.0)
+  - R.swift.Library (5.2.0)
+  - Result (4.1.0)
+  - RMessage (3.0.3):
+    - HexColors (~> 6.0)
+
+DEPENDENCIES:
+  - Cosmos (~> 22.1)
+  - GSImageViewerController
+  - MaterialActivityIndicator
+  - Moya (~> 13.0.1)
+  - Nuke (~> 9.0)
+  - R.swift
+  - RMessage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cosmos
+    - GSImageViewerController
+    - HexColors
+    - MaterialActivityIndicator
+    - Moya
+    - Nuke
+    - R.swift
+    - R.swift.Library
+    - Result
+    - RMessage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: 2795b36ad4bbea1af3050d6d65576ed63875f86a
+  GSImageViewerController: 3b8fb7d2ab7596152329d7910eeb1905b2284cb9
+  HexColors: f8c66339541a74bb08905bfe7cd4f8cc85e9e173
+  MaterialActivityIndicator: 5061a52fadf7d22533734f2d34806311331bc424
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Nuke: af4301b154d3afd8a3b045a5194a9a773a00b7a8
+  R.swift: 7c52cdc57a66840ffe6cbd8a823d732059d42a32
+  R.swift.Library: 5ba4f1631300caf9a4d890186930da85d540769d
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RMessage: f6d768616d6afbc2c92a2451de9d7f7617b7195c
+
+PODFILE CHECKSUM: 0e8ebb5fc51caf406577ba3cfcfa08aa9bf9b62d
+
+COCOAPODS: 1.7.1

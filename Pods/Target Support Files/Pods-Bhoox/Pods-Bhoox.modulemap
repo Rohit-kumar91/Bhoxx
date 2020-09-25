@@ -1,0 +1,6 @@
+framework module Pods_Bhoox {
+  umbrella header "Pods-Bhoox-umbrella.h"
+
+  export *
+  module * { export * }
+}
